@@ -1,0 +1,14 @@
+body{
+  background-color: #131212;
+}
+#inpbar{
+  padding: 15px 15px;
+  margin-bottom: 20px;
+ 
+}
+.btn1{
+  background-color: #131212;
+  color: red;
+  padding: 14px 42px;
+  margin-left: 10px;
+}
